@@ -1,0 +1,5 @@
+Question:
+What is a session timeout?
+
+Answer:
+Sessions end automatically after inactivity to protect your account from unauthorized use.

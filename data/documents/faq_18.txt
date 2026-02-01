@@ -1,0 +1,5 @@
+Question:
+What is passwordless login?
+
+Answer:
+It uses biometrics, magic links, or security keys instead of passwords for easier, secure access.

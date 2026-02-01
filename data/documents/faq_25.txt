@@ -1,0 +1,5 @@
+Question:
+What happens if I enter the wrong password too many times?
+
+Answer:
+Your account temporarily locks; wait or use recovery to reset without permanent issues.

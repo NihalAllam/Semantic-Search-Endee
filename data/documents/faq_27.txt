@@ -1,0 +1,5 @@
+Question:
+How do I manage active sessions?
+
+Answer:
+Check 'Active Sessions' in settings to view and revoke access from specific devices.

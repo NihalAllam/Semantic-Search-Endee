@@ -1,0 +1,5 @@
+Question:
+What is biometric login?
+
+Answer:
+It uses fingerprint, face ID, or similar device features for quick, secure authentication.

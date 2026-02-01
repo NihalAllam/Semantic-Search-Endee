@@ -1,0 +1,5 @@
+Question:
+Is my login information secure?
+
+Answer:
+We use HTTPS encryption and never store passwords in plain text; they're hashed securely.

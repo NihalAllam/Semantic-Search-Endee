@@ -1,0 +1,5 @@
+Question:
+Can I use the same password for multiple accounts?
+
+Answer:
+No, use unique passwords everywhere to minimize risk if one account is compromised.

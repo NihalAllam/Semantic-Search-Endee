@@ -1,0 +1,5 @@
+Question:
+What is two-factor authentication (2FA)?
+
+Answer:
+2FA adds a second verification step, like a code sent to your phone or app, beyond just your password.

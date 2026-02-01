@@ -1,0 +1,5 @@
+Question:
+How do I log out from all devices?
+
+Answer:
+In account settings, select 'Log out from all sessions' to end access on every device.

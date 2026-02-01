@@ -1,0 +1,5 @@
+Question:
+How do I set up passwordless authentication?
+
+Answer:
+In security settings, enable options like email magic links or register a security key.

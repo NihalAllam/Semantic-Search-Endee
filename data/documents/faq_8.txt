@@ -1,0 +1,5 @@
+Question:
+Why is my account locked?
+
+Answer:
+Accounts lock after multiple failed login attempts to prevent unauthorized access.

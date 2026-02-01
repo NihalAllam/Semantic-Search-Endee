@@ -1,0 +1,5 @@
+Question:
+What if my verification code expires?
+
+Answer:
+Request a new one; codes typically expire after 5-10 minutes for security.

@@ -1,0 +1,5 @@
+Question:
+Why can't I log in with social media?
+
+Answer:
+Ensure your social account is linked in settings, or check for any app permission issues.

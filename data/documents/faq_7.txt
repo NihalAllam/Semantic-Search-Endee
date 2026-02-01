@@ -1,0 +1,5 @@
+Question:
+What if I lose access to my 2FA device?
+
+Answer:
+Use your backup codes from setup or contact support with identity proof to regain access.

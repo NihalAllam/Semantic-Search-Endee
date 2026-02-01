@@ -1,0 +1,5 @@
+Question:
+What should my password contain?
+
+Answer:
+Use at least 12 characters with uppercase letters, lowercase letters, numbers, and special symbols for maximum security.

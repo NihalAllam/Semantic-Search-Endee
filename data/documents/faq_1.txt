@@ -1,0 +1,5 @@
+Question:
+How do I create a new account?
+
+Answer:
+Visit our signup page, enter your email and a secure password, then follow the verification steps to complete registration.

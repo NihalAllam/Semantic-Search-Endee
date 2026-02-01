@@ -1,0 +1,5 @@
+Question:
+Why do I need email verification?
+
+Answer:
+Email verification confirms your identity, prevents spam accounts, and enables password recovery.

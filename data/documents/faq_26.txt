@@ -1,0 +1,5 @@
+Question:
+Why was my login attempt blocked?
+
+Answer:
+Suspicious activity, like logins from new locations, triggers blocks for your protection.

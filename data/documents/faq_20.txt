@@ -1,0 +1,5 @@
+Question:
+Why do I need to verify my phone number?
+
+Answer:
+Phone verification adds security for 2FA, recovery, and prevents account sharing.

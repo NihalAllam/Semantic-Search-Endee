@@ -1,0 +1,5 @@
+Question:
+How do I enable two-factor authentication?
+
+Answer:
+Go to your account settings, select 'Security', choose 2FA, and scan the QR code with an authenticator app.

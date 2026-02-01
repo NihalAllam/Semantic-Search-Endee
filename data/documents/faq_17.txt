@@ -1,0 +1,5 @@
+Question:
+Do you store my password securely?
+
+Answer:
+Yes, passwords are salted and hashed using industry-standard algorithms like bcrypt.

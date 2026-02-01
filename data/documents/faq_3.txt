@@ -1,0 +1,5 @@
+Question:
+How do I reset my forgotten password?
+
+Answer:
+Click 'Forgot Password' on the login page, enter your email, and follow the link sent to reset it securely.

@@ -1,0 +1,5 @@
+Question:
+What if I suspect my account is hacked?
+
+Answer:
+Change your password immediately, enable 2FA, and contact support to review suspicious activity.
