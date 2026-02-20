@@ -1,19 +1,3 @@
-# Semantic Search using Endee
+# IDK man
 
-## Overview
-
-## Problem Statement
-
-## System Design
-
-## How Endee is Used
-
-## Setup Instructions
-
-## Running the Project
-
-## Example Queries and Results
-
-## Limitations
-
-## Future Improvements
+Igbire this half assed project.
