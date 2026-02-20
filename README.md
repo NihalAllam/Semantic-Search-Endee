@@ -1,3 +1,3 @@
 # IDK man
 
-Igbire this half assed project.
+Ignore this half assed project.
